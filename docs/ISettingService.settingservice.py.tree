@@ -1,0 +1,2064 @@
+   CursorKind.NAMESPACE ZRCSDK
+     CursorKind.ENUM_DECL ZRCSDKError
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SUCCESS
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_INTERNAL_ERROR
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SERVICE_UNINITIALIZE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_PERMISSION
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_FEATURE_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_ZR_NO_CAPABILITY
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_INVALID_PARAMETER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_EVALUATION_DATE_EXPIRED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_API_NOT_SUPPORT_IN_WEBINAR
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_API_WRONG_USAGE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_DEVICE_NOT_EXIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MIC_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_CEC_SCREEN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_AUDIO_IS_MUTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_CONTROL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_MOVE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_ZOOM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_SWITCH
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_CHANGE_PANTILT_SPEED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_NOT_SUPPORT_THE_SMART_MODE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_NOT_ACTIVE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CONTROL_NOT_ENABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_THIS_CAMERA_IS_NOT_SHARING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_NOT_SUPPORT_PRESET
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_NOT_SUPPORT_SPEAKER_SWITCHING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_ENABLE_COMPANION_ZR_CAMERA
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_NOT_SUPPORT_DIRECTOR_CALIBRATE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_DIRECTOR_CALIBRATE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_THIS_CAMERA_NOT_SUPPORT_CALIBRATION
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CALIBRATION_IN_WRONG_ORDER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_MULTI_CAMERA_NOT_ENABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_COUNT_OF_MULTI_CAMERAS_REACH_MAX
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_BE_SELECTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_NOT_EXIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_SET_COM_ID
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAMERA_CAN_NOT_SET_DISPLAY_NAME
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_VB_CAN_NOT_CHANGE_VB_WHEN_SETTING_LOCKED_ON_WEB
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_VB_CAN_NOT_CHANGE_VB_WHEN_IN_IMMERSIVE_CUTOUT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_VB_CAN_NOT_CHANGE_TO_NONE_WHEN_VB_FORCE_ENABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_VB_NOT_SUPPORT_BLUR_ALGORITHM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_INVALID_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_INVALID_MEETING_NUMBER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_INVALID_THIRD_PARTY_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NONE_UNENCRYPTED_ATTENDEE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_AES256_GCM_ENCRYPTED_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MEETING_EXIST_THIRD_PARTY_AUDIO
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_ALREADY_IN_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_WEBINAR
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_PSTN_CALLOUT_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_E2EE_Meeting
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_INTEGRATION_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_WEBINAR_PRACTICE_SESSION
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MEETING_NOT_SUPPORT_WAITING_ROOM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MEETING_WAITING_ROOM_LOCKED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAN_NOT_JOIN_VIA_WEB_CLIENT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_IN_E2EE_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_IN_WAITING_ROOM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_IN_BACKSTAGE_DEBRIEF_SESSION
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SELF_OR_USER_IN_IMPROPER_POSITION_IN_WEBINAR
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MEETING_CHAT_NOT_SUPPORT_OR_ENABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SUPPORT_CHAT_PRIVILEGE_CONTROL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_THIS_INCOMING_MEETING_CALL_NOT_EXIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_VIEW_LAYOUT_FOLLOWING_HOST_ORDER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SCREEN_CAN_NOT_BE_PINNED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_ALREADY_PINNED_ON_SCREEN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_ALREADY_BE_SPOTLIGHTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MEETING_NOT_SUPPORT_MULTI_PIN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_USER_PINNED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_REACH_MAX_PINNED_USERS_COUNT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_USER_SPOTLIGHTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_REACH_MAX_SPOTLIGHTED_USERS_COUNT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_WRONG_NUMBER_OF_SPOTLIGHTED_USERS
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_REACH_MIN_USERS_FOR_SPOTLIGHT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NDI_NOT_ENABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NDI_SOURCE_HAS_BEEN_PINNED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_DYNAMIC_LAYOUT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_SHARE_WHILE_IN_LIVE_FEED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CANNOT_ADJUST_ONLY_ONE_SCREEN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CANNOT_SET_MAIN_SCREEN_AS_CONFIDENCE_MONITOR
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_ADJUST_SCREEN_POSITION_OUT_OF_RANGE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_MEETING_SHARE_IS_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_SHARING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SHARING_BLACKMAGIC
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_VIEWING_BLACKMAGIC_LOCALLY
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SHARING_BLACKMAGIC_DATA_NOT_READY
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_VIEWING_BLACKMAGIC_LOCALLY_DATA_NOT_READY
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_CAMERA_IS_IN_SHARING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_PIN_SHARE_NOT_DOUBLE_CONFIRMED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SHARE_AUDIO_CONTROL_NOT_SUPPORT_ON_SINGLE_SCREEN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SHARE_NOT_WITH_AUDIO
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_AVAILABLE_WHILE_IN_MULTI_SHARE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SCREEN_CAN_NOT_PIN_SHARE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CAN_NOT_PIN_BACKSTAGE_SHARE_IN_WEBINAR
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_RECORDING_NOT_AVAILABLE_IN_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_CONFIRM_START_RECORDING_DISCLAIMER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SET_RECORDING_NOTIFICATION_EMAIL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NO_NEED_TO_PROMPT_START_RECORDING_DISCLAIMER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_NOT_FOUND_BY_ID
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_NOT_FOUND_BY_GUID
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_IS_MULTI_STREAM_VIDEO_USER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_IS_PHONE_CALL_IN_USER
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_IS_PANELIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_IS_ATTENDEE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_IN_BACKSTAGE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_CAN_NOT_BE_ALLOWED_RECORDING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_CAN_NOT_BE_ALLOWED_MULTI_PIN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_CAN_NOT_BE_SPOTLIGHTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_CAN_NOT_BE_ADD_PINNED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_USER_CAN_NOT_BE_ADD_SPOTLIGHTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CLOSED_CAPTION_NOT_AVAILABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_CLOSED_CAPTION_DISABLED_BECAUSE_NEW_LTT_FEATURE_ON
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_LIVE_TRANSCRIPTION_NOT_ENABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_LIVE_TRANSCRIPTION_DISABLED_BECAUSE_NEW_LTT_FEATURE_ON
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NEW_LTT_CAPTION_NOT_ENABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NEW_LTT_CAPTION_TRANSLATED_CAPTION_NOT_ENABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NEW_LTT_CAPTION_SPEAKING_LANGUAGE_NOT_AVAILABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NEW_LTT_CAPTION_TRANSLATION_LANGUAGE_NOT_AVAILABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NO_PERMISSION_TO_MANAGE_BO
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_CAN_NOT_CREATE_BO_AFTER_STARTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_CAN_NOT_EDIT_BO_AFTER_STARTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_CREATE_ROOM_COUNT_EXCEED_MAX
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NOT_ENABLED_WEB_PRE_ASSIGN
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_BROADCAST_MESSAGE_IS_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_CAN_NOT_DELETE_MAIN_SESSION
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NO_BREAKOUT_ROOM_ADDED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_ROOM_INFO_NOT_FOUND_BY_BID
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NOT_IN_PROGRESS
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NO_PERMISSION_JOIN_UNASSIGNED_ROOM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NO_PERMISSION_LEAVE_BO
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NOT_IN_BREAKOUT_ROOM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_NOT_IN_MAIN_SESSION
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_MANAGER_CAN_NOT_ASK_FOR_HELP
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BO_USER_UNASSIGNED_TO_BREAKOUT_ROOM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SUPPORT_BYOD_MODE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SUPPORT_BYOD_CAMERA_CONTROL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SUPPORT_BYOD_MICROPHONE_CONTROL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SUPPORT_BYOD_SPEAKER_CONTROL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_SUPPORT_BYOD_AUTO_FRAMING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BYOD_NOT_SUPPORT_MANUAL_OPERATE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_NOT_IN_RIGHT_BYOD_STATUS
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_BYOD_HDMI_SHARE_NOT_SUPPORT_OR_NOT_READY
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_INCOMING_CALL_NOT_EXIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_ALREADY_HAVE_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_NO_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_CALL_NOT_IN_SIP_CALL_LIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_CALL_NOT_IN_AN_CORRECT_STATE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_FOREGROUND_NOT_IN_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_NOT_IN_SIP_CALL_ACTIVITY
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_SERVICE_NOT_AVAILABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_ZOOM_PHONE_NOT_AVAILABLE
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_NUMBER_OF_CALLS_EXCEEDED_LIMIT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_ALREADY_HAVE_MERGED_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_MERGED_CALL_CAN_NOT_BE_MERGED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_CALL_IS_TRANSFERRING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_ALREADY_HAVE_WARM_TRANSFERRING_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_CAN_NOT_TRANSFER_MERGED_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_CALL_HAS_NO_RELATED_CALL_ID
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_RELATED_CALL_NOT_EXIST
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_HAVE_NO_FOREGROUND_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_THIS_CALL_IS_EMERGENCY_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_CAN_NOT_CHANGE_LOCATION_PERMISSION_IN_MEETING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_NO_EMERGENCY_INFO
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_NO_UNHOLD_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_SIP_NOT_ALL_SIP_CALLS_IN_CALL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_AIC_MEETING_SUMMARY_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_AIC_MEETING_QUERY_DISABLED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_AIC_NO_PRIVILEGE_SETTING_ITEM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_AIC_INVALID_PRIVILEGE_SETTING_ITEM
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZRCSDKERR_AIC_ALREADY_SET_MEETING_SUMMARY_NOTIFY_EMAIL
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL RoomUnpairedReason
+       CursorKind.ENUM_CONSTANT_DECL RoomUnpairedReason_TokenInvalid
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL RoomUnpairedReason_RefreshTokenFail
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL RoomUnpairedReason_RemovedByAdmin
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL RoomUnpairedReason_BetaBuildExpired
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ConnectionState
+       CursorKind.ENUM_CONSTANT_DECL ConnectionStateNone
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ConnectionStateEstablished
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ConnectionStateConnected
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ConnectionStateDisconnected
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ScheduleCalendarEventResult
+       CursorKind.ENUM_CONSTANT_DECL ScheduleCalendarEventResultSuccess
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ScheduleCalendarEventResultFailUnknown
+       CursorKind.ENUM_CONSTANT_DECL ScheduleCalendarEventResultFailWeakPWD
+     CursorKind.ENUM_DECL DeleteCalendarEventResult
+       CursorKind.ENUM_CONSTANT_DECL DeleteCalendarEventResultSuccess
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL DeleteCalendarEventResultFailByDeleteCalendar
+       CursorKind.ENUM_CONSTANT_DECL DeleteCalendarEventResultFailByZRInMeeting
+       CursorKind.ENUM_CONSTANT_DECL DeleteCalendarEventResultFailUnknown
+     CursorKind.ENUM_DECL ListMeetingResult
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_SUCCESS
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_UNKNOWN
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_GOOGLE_CALENDAR_INVALID_CREDENTIAL
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_GOOGLE_CALENDAR_DAILY_LIMIT_EXCEEDED
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_EWS_INVALID_CREDENTIAL
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_EWS_AUTH_METHOD_UNSUPPORTED
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_EWS_FOLDER_NOT_FOUND
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_EWS_IMPERSONATE_USER_DENIED
+       CursorKind.ENUM_CONSTANT_DECL LIST_MEETING_ERROR_EWS_NON_EXISTENT_MAILBOX
+     CursorKind.ENUM_DECL MeetingScheduleFrom
+       CursorKind.ENUM_CONSTANT_DECL MeetingScheduleFromUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScheduleFromCalendar
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScheduleFromScheduleDisplay
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScheduleFromInstantMeeting
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ZoomMeetingItemType
+       CursorKind.ENUM_CONSTANT_DECL ZoomMeetingItemTypeDefault
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ZoomMeetingItemTypeZESingleSession
+       CursorKind.ENUM_CONSTANT_DECL ZoomMeetingItemTypeZEMultiSession
+       CursorKind.ENUM_CONSTANT_DECL ZoomMeetingItemTypeZESubSession
+     CursorKind.ENUM_DECL MeetingEncryptionAlgorithm
+       CursorKind.ENUM_CONSTANT_DECL MeetingEncryptionNone
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingEncryptionAES256
+       CursorKind.ENUM_CONSTANT_DECL MeetingEncryptionAES256GCM
+     CursorKind.ENUM_DECL ThirdPartyMeetingServiceProvider
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderInvalid
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderWebex
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderSkype
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderGoToMeeting
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderTeams
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderBluejeans
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderGoogleHangouts
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderFuze
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ThirdPartyMeetingServiceProviderMetaWorkrooms
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL LegacyRoomSystemType
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemTypeNone
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemTypeH323
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemTypeSIP
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemTypeBoth
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL LegacyRoomSystemEncryptType
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemEncryptTypeNo
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemEncryptTypeYes
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL LegacyRoomSystemEncryptTypeAuto
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL DeviceType
+       CursorKind.ENUM_CONSTANT_DECL DeviceTypeMicrophone
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL DeviceTypeSpeaker
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL DeviceTypeCamera
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL MeetingType
+       CursorKind.ENUM_CONSTANT_DECL MeetingTypeNone
+       CursorKind.ENUM_CONSTANT_DECL MeetingTypeMeeting
+       CursorKind.ENUM_CONSTANT_DECL MeetingTypeSharing
+       CursorKind.ENUM_CONSTANT_DECL MeetingTypePSTNCallout
+       CursorKind.ENUM_CONSTANT_DECL MeetingTypeIntegration
+     CursorKind.ENUM_DECL MeetingStatus
+       CursorKind.ENUM_CONSTANT_DECL MeetingStatusNotInMeeting
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingStatusConnectingToMeeting
+       CursorKind.ENUM_CONSTANT_DECL MeetingStatusInMeeting
+       CursorKind.ENUM_CONSTANT_DECL MeetingStatusLoggedOut
+     CursorKind.ENUM_DECL ConfInstType
+       CursorKind.ENUM_CONSTANT_DECL ConfInstTypeUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ConfInstTypeCurrentConf
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ConfInstTypeMasterConf
+       CursorKind.ENUM_CONSTANT_DECL ConfInstTypeBackstage
+     CursorKind.ENUM_DECL PSTNCallOutStatus
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusUnknown
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusCalling
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusRinging
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusAccepted
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusBusy
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusNotAvailable
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusUserHangUp
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusOtherFail
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusJoinSuc
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusTimeOut
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusZoomStartCancelCall
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusZoomCallCanceled
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusZoomCancelCallFail
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusNoAnswer
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusBlockNoHost
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusBlockHighRate
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL PSTNCallOutStatusBlockTooFrequent
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL AudioType
+       CursorKind.ENUM_CONSTANT_DECL AudioTypeNone
+       CursorKind.ENUM_CONSTANT_DECL AudioTypeVoIP
+       CursorKind.ENUM_CONSTANT_DECL AudioTypePhone
+     CursorKind.ENUM_DECL VideoSendingSourceType
+       CursorKind.ENUM_CONSTANT_DECL VideoSendingSourceTypeDevice
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL VideoSendingSourceTypeLipsync
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL MeetingScreen
+       CursorKind.ENUM_CONSTANT_DECL MeetingScreenUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScreenFirst
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScreenSecond
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScreenThird
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MeetingScreenConfidence
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ShareSourceType
+       CursorKind.ENUM_CONSTANT_DECL ShareSourceTypeUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ShareSourceTypeNormal
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ShareSourceTypeCloudWB
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ShareSourceTypeCollaborationZapps
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL SharingInstructionDisplayState
+       CursorKind.ENUM_CONSTANT_DECL SharingInstructionDisplayStateNone
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SharingInstructionDisplayStateDesktop
+       CursorKind.ENUM_CONSTANT_DECL SharingInstructionDisplayStateIOS
+       CursorKind.ENUM_CONSTANT_DECL SharingInstructionDisplayStateWhiteboardCamera
+     CursorKind.ENUM_DECL RoomSystemProtocolType
+       CursorKind.ENUM_CONSTANT_DECL RoomSystemProtocolTypeUnknown
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL RoomSystemProtocolTypeH323
+       CursorKind.ENUM_CONSTANT_DECL RoomSystemProtocolTypeSIP
+     CursorKind.ENUM_DECL ReactionFeedback
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackNone
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackHand
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackYes
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackNo
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackFast
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackSlow
+       CursorKind.ENUM_CONSTANT_DECL ReactionFeedbackCoffee
+     CursorKind.ENUM_DECL HandSkinTone
+       CursorKind.ENUM_CONSTANT_DECL HandSkinToneUnknown
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL HandSkinTone1
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL HandSkinTone2
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL HandSkinTone3
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL HandSkinTone4
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL HandSkinTone5
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL HandSkinTone6
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ReactionIntensity
+       CursorKind.ENUM_CONSTANT_DECL ReactionIntensityHidden
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ReactionIntensityFull
+       CursorKind.ENUM_CONSTANT_DECL ReactionIntensityMedium
+     CursorKind.ENUM_DECL InterpretLanguage
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageOriginalAudio
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageEnglish
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageChinese
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageJapanese
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageGerman
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageFrench
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageRussian
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguagePortuguese
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageSpanish
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL InterpretLanguageKorean
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL UserType
+       CursorKind.ENUM_CONSTANT_DECL UserTypeNormal
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL UserTypeH323
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL UserTypePureCallIn
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL BO_STATUS
+       CursorKind.ENUM_CONSTANT_DECL BO_STATUS_INVALID
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_STATUS_EDIT
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_STATUS_STARTED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_STATUS_STOPPING
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_STATUS_ENDED
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL BO_USER_STATUS
+       CursorKind.ENUM_CONSTANT_DECL BO_USER_STATUS_INVALID
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_USER_STATUS_IN_MASTER
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_USER_STATUS_IN_BO
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL BO_USER_STATUS_LEAVE
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.STRUCT_DECL LegacyRoomSystem
+       CursorKind.FIELD_DECL name
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL ip
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL e164Num
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL roomSystemType
+         CursorKind.TYPE_REF enum ZRCSDK::LegacyRoomSystemType
+         CursorKind.DECL_REF_EXPR LegacyRoomSystemTypeNone
+       CursorKind.FIELD_DECL encryptType
+         CursorKind.TYPE_REF enum ZRCSDK::LegacyRoomSystemEncryptType
+         CursorKind.DECL_REF_EXPR LegacyRoomSystemEncryptTypeNo
+     CursorKind.STRUCT_DECL DialNumber
+       CursorKind.FIELD_DECL countryCode
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL phoneNumber
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+     CursorKind.STRUCT_DECL ThirdPartyMeeting
+       CursorKind.FIELD_DECL serviceProvider
+         CursorKind.TYPE_REF enum ZRCSDK::ThirdPartyMeetingServiceProvider
+         CursorKind.DECL_REF_EXPR ThirdPartyMeetingServiceProviderInvalid
+       CursorKind.FIELD_DECL meetingNumber
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL sipAddress
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL h323Address
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL joinMeetingURL
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL dialNumbers
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::DialNumber
+     CursorKind.STRUCT_DECL MeetingItem
+       CursorKind.FIELD_DECL zoomMeetingItemType
+         CursorKind.TYPE_REF enum ZRCSDK::ZoomMeetingItemType
+         CursorKind.DECL_REF_EXPR ZoomMeetingItemTypeDefault
+       CursorKind.FIELD_DECL meetingNumber
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL meetingName
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL hostName
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL startTime
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL endTime
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL scheduledFrom
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL isPrivate
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isAllDayEvent
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isCheckedIn
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL meetingDomain
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL isInstantMeeting
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL thirdPartyMeetingInfo
+         CursorKind.TYPE_REF struct ZRCSDK::ThirdPartyMeeting
+     CursorKind.ENUM_DECL SmartCameraMask
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraManualMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraSingleFocusMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraGroupFocusMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraMultiFocusMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraMultiStreamMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraDirectorMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL SmartCameraPresenterFocusMask
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.BINARY_OPERATOR 
+             CursorKind.INTEGER_LITERAL 
+             CursorKind.INTEGER_LITERAL 
+     CursorKind.STRUCT_DECL GenericSettings
+       CursorKind.FIELD_DECL isMyVideoHidden
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL muteAvWhenMeetingBegins
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isVideoSharingOptimizable
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isVideoSharingOptimized
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isSupportExpandConfSelfVideo
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isConfSelfVideoExpanded
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL HardwareStatus
+       CursorKind.FIELD_DECL isMicDisabled
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isCameraDisabled
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL Device
+       CursorKind.FIELD_DECL id
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL name
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL alias
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL isSelected
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL manuallySelected
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL combinedDevice
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL numberOfCombinedDevices
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL ptzComId
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL isSelectedAsMultiDevice
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL selectedDirectorDevice
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isSupportCalibration
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL MeetingInfo
+       CursorKind.FIELD_DECL meetingID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL meetingNumber
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL meetingName
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL meetingType
+         CursorKind.TYPE_REF enum ZRCSDK::MeetingType
+         CursorKind.DECL_REF_EXPR MeetingTypeNone
+       CursorKind.FIELD_DECL meetingPassword
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL numericPassword
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL inviteEmailTitle
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL inviteEmailContent
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL joinMeetingUrl
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL isWebinar
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isWaitingRoom
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL encryptionAlgorithm
+         CursorKind.TYPE_REF enum ZRCSDK::MeetingEncryptionAlgorithm
+         CursorKind.DECL_REF_EXPR MeetingEncryptionNone
+       CursorKind.FIELD_DECL myUserId
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL isWebinarAttendee
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isWebinarAttendeeCanTalk
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL amIOriginalHost
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canPutOnHold
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isAllowHostAssignCCEditor
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isPAC
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isPACVideoForbidden
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isPACShareForbidden
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isGreenRoomEnabled
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isDebriefSessionEnabled
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL AudioStatus
+       CursorKind.FIELD_DECL audioType
+         CursorKind.TYPE_REF enum ZRCSDK::AudioType
+         CursorKind.DECL_REF_EXPR AudioTypeNone
+       CursorKind.FIELD_DECL isMuted
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL VideoStatus
+       CursorKind.FIELD_DECL hasSource
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL receiving
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL sending
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canControl
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL NewJoinFlowInfo
+       CursorKind.FIELD_DECL showVideo
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL videoOn
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canTurnOnVideo
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL showAudio
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL audioOn
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canTurnOnAudio
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL CameraControlStatus
+       CursorKind.FIELD_DECL canIRequestControl
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL amIControlling
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canSwitchCamera
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canMoveCamera
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canZoomCamera
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL HandStatus
+       CursorKind.FIELD_DECL handRaised
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL timeStamp
+         CursorKind.FLOATING_LITERAL 
+       CursorKind.FIELD_DECL skinTone
+         CursorKind.TYPE_REF enum ZRCSDK::HandSkinTone
+         CursorKind.DECL_REF_EXPR HandSkinToneUnknown
+     CursorKind.STRUCT_DECL InterpretLanguageInfo
+       CursorKind.FIELD_DECL language
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNEXPOSED_EXPR InterpretLanguageOriginalAudio
+           CursorKind.DECL_REF_EXPR InterpretLanguageOriginalAudio
+       CursorKind.FIELD_DECL languageID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL displayName
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL iconContent
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+     CursorKind.STRUCT_DECL BreakoutRoomStatus
+       CursorKind.FIELD_DECL sessionBID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL userStatus
+         CursorKind.TYPE_REF enum ZRCSDK::BO_USER_STATUS
+         CursorKind.DECL_REF_EXPR BO_USER_STATUS_INVALID
+       CursorKind.FIELD_DECL supportForceJoinLeave
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL supportSelfChooseRoom
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL supportCohostStartStopBO
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL supportTGMoveToMainSession
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isValidBOUser
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL MeetingParticipant
+       CursorKind.FIELD_DECL userID
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL userGUID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL userType
+         CursorKind.TYPE_REF enum ZRCSDK::UserType
+         CursorKind.DECL_REF_EXPR UserTypeNormal
+       CursorKind.FIELD_DECL userName
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL pronouns
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL avatarUrl
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL isMySelf
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isHost
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isOriginalOrAlternativeHost
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isCohost
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isGuest
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isViewOnlyUser
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isViewOnlyUserCanTalk
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL canRecord
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isRecording
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL recordingDisabled
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isInSilentMode
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isLeavingSilentMode
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL audioStatus
+         CursorKind.TYPE_REF struct ZRCSDK::AudioStatus
+       CursorKind.FIELD_DECL videoStatus
+         CursorKind.TYPE_REF struct ZRCSDK::VideoStatus
+       CursorKind.FIELD_DECL cameraControlStatus
+         CursorKind.TYPE_REF struct ZRCSDK::CameraControlStatus
+       CursorKind.FIELD_DECL handStatus
+         CursorKind.TYPE_REF struct ZRCSDK::HandStatus
+       CursorKind.FIELD_DECL reactionEmoji
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL reactionFeedback
+         CursorKind.TYPE_REF enum ZRCSDK::ReactionFeedback
+         CursorKind.DECL_REF_EXPR ReactionFeedbackNone
+       CursorKind.FIELD_DECL isInterpreter
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL activeInterpreterLanguage
+         CursorKind.TYPE_REF struct ZRCSDK::InterpretLanguageInfo
+       CursorKind.FIELD_DECL isRemoteControlAdmin
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isVirtualAssistant
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isCompanionModeUser
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isCompanionZRUser
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL breakoutRoomStatus
+         CursorKind.TYPE_REF struct ZRCSDK::BreakoutRoomStatus
+       CursorKind.FIELD_DECL canPinMultiVideo
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isSupportGreenRoom
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isInGreenRoom
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isJoiningGreenRoom
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL ParticipantCount
+       CursorKind.FIELD_DECL waitingRoomUserCount
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL inMeetingUserCount
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL inBackstageUserCount
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL CameraControlType
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeStart
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeContinue
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeStop
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeRequestedByRemote
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeGaveUpByRemote
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeControlRequestToRemote
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeControlGaveUpToRemote
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeControlOpenCtrlRemotePanel
+       CursorKind.ENUM_CONSTANT_DECL CameraControlTypeControlMovingSpeed
+     CursorKind.ENUM_DECL CameraControlAction
+       CursorKind.ENUM_CONSTANT_DECL CameraControlActionMoveUp
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL CameraControlActionMoveDown
+       CursorKind.ENUM_CONSTANT_DECL CameraControlActionMoveLeft
+       CursorKind.ENUM_CONSTANT_DECL CameraControlActionMoveRight
+       CursorKind.ENUM_CONSTANT_DECL CameraControlActionZoomIn
+       CursorKind.ENUM_CONSTANT_DECL CameraControlActionZoomOut
+     CursorKind.STRUCT_DECL CameraPresetInfo
+       CursorKind.FIELD_DECL defaultIndex
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL supportedPresetCount
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL namedPresets
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF map
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+     CursorKind.STRUCT_DECL CameraControlInfo
+       CursorKind.FIELD_DECL deviceID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL canCurrentCameraBeControlled
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isOwnVideoMirrored
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL pantiltSpeedPercentage
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL cameraPresetInfo
+         CursorKind.TYPE_REF struct ZRCSDK::CameraPresetInfo
+       CursorKind.FIELD_DECL smartCameraCapability
+         CursorKind.TYPE_REF enum ZRCSDK::SmartCameraMask
+         CursorKind.DECL_REF_EXPR SmartCameraManualMask
+       CursorKind.FIELD_DECL smartCameraMode
+         CursorKind.TYPE_REF enum ZRCSDK::SmartCameraMask
+         CursorKind.DECL_REF_EXPR SmartCameraManualMask
+     CursorKind.STRUCT_DECL CompanionZRDeviceInfo
+       CursorKind.FIELD_DECL companionZRID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL cameraList
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.FIELD_DECL mainCameraInfo
+         CursorKind.TYPE_REF struct ZRCSDK::CameraControlInfo
+       CursorKind.FIELD_DECL canSwitchCameraForVideo
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL switchableCameras
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.FIELD_DECL comDeviceList
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.FIELD_DECL multiCameraInfo
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::CameraControlInfo
+       CursorKind.FIELD_DECL allowSmartGalleryAndMultiCameraParallel
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL maxMultiCameraCount
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL isCameraEnable
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL CompanionZRDeviceUpdateNot
+       CursorKind.FIELD_DECL companionZRDeviceInfoList
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::CompanionZRDeviceInfo
+   CursorKind.NAMESPACE ZRCSDK
+     CursorKind.ENUM_DECL AudioCheckupCommand
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupCommandStart
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupCommandCancel
+     CursorKind.ENUM_DECL AudioCheckupStatus
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusIdle
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusScheduled
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusStarting
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusChecking
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusSucceeded
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusFailed
+       CursorKind.ENUM_CONSTANT_DECL AudioCheckupStatusFailedLikely
+     CursorKind.ENUM_DECL AdvancedNoiseSuppressionMode
+       CursorKind.ENUM_CONSTANT_DECL AdvancedNoiseSuppressionModeNone
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL AdvancedNoiseSuppressionModeAuto
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL AdvancedNoiseSuppressionModeHigh
+       CursorKind.ENUM_CONSTANT_DECL AdvancedNoiseSuppressionModeOff
+     CursorKind.ENUM_DECL MicRecordTestStatus
+       CursorKind.ENUM_CONSTANT_DECL MicRecordTestStatusNone
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MicRecordTestStatusRecording
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL MicRecordTestStatusPlaying
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ScreenResolutionStatus
+       CursorKind.ENUM_CONSTANT_DECL ScreenResolutionStatusOptimizable
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ScreenResolutionStatusOptimized
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL ScreenSequenceCalibrationAction
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationNone
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationStart
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationIdentify
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationConfirm
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationCancel
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationConfidenceStart
+       CursorKind.ENUM_CONSTANT_DECL ScreenSequenceCalibrationConfidenceIdentify
+     CursorKind.ENUM_DECL ChannelSignalType
+       CursorKind.ENUM_CONSTANT_DECL ChannelSignalTypeUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ChannelSignalTypeMono
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL ChannelSignalTypeStereoLeft
+       CursorKind.ENUM_CONSTANT_DECL ChannelSignalTypeStereoRight
+     CursorKind.ENUM_DECL NetworkType
+       CursorKind.ENUM_CONSTANT_DECL NetworkTypeUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL NetworkTypeWired
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL NetworkTypeWifi
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL NetworkTypePPP
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL NetworkType3G
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL NetworkConnectionType
+       CursorKind.ENUM_CONSTANT_DECL NetworkConnectionTypeUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL NetworkConnectionTypeDirect
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL NetworkConnectionTypeCloud
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.STRUCT_DECL QualityStatisticalAudio
+       CursorKind.FIELD_DECL sampleRate
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL recSampleRates
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF uint32_t
+     CursorKind.STRUCT_DECL QualityStatisticalVideo
+       CursorKind.FIELD_DECL fpsOfRecvMaxVideo
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL widthOfMaxRecvVideo
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL heightOfMaxRecvVideo
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL resolutionOfSend
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL fpsOfSend
+         CursorKind.TYPE_REF uint64_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.STRUCT_DECL QualityStatisticalShare
+       CursorKind.FIELD_DECL fpsOfRecvShare
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL widthOfRecvShare
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL heightOfRecvShare
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL resolutionOfSend
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL fpsOfSend
+         CursorKind.TYPE_REF uint64_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+     CursorKind.STRUCT_DECL QualityStatisticalInfo
+       CursorKind.FIELD_DECL audioStatisticalInfo
+         CursorKind.TYPE_REF struct ZRCSDK::QualityStatisticalAudio
+       CursorKind.FIELD_DECL videoStatisticalInfo
+         CursorKind.TYPE_REF struct ZRCSDK::QualityStatisticalVideo
+       CursorKind.FIELD_DECL shareStatisticalInfo
+         CursorKind.TYPE_REF struct ZRCSDK::QualityStatisticalShare
+     CursorKind.STRUCT_DECL StatisticalNetWorkStatusInfo
+       CursorKind.FIELD_DECL avgLossRatio
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL maxLossRatio
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL rtt
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL jitter
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL rate
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.STRUCT_DECL StatisticalMediaInfo
+       CursorKind.FIELD_DECL networkSendingStatus
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalNetWorkStatusInfo
+       CursorKind.FIELD_DECL networkReceivingStatus
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalNetWorkStatusInfo
+       CursorKind.FIELD_DECL qualityStatisticalInfo
+         CursorKind.TYPE_REF struct ZRCSDK::QualityStatisticalInfo
+     CursorKind.STRUCT_DECL StatisticalOverallInfo
+       CursorKind.FIELD_DECL cpuCoreNumber
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL cpuFrequency
+         CursorKind.FLOATING_LITERAL 
+       CursorKind.FIELD_DECL cpuZRUsage
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL cpuOverallUsage
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL memorySize
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL memoryZRUsage
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL memoryOverallUsage
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL networkType
+         CursorKind.TYPE_REF enum ZRCSDK::NetworkType
+         CursorKind.DECL_REF_EXPR NetworkTypeUnknown
+       CursorKind.FIELD_DECL proxy
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL netWorkConnectionType
+         CursorKind.TYPE_REF enum ZRCSDK::NetworkConnectionType
+         CursorKind.DECL_REF_EXPR NetworkConnectionTypeUnknown
+       CursorKind.FIELD_DECL dataCenterRegionMessage
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL encryption
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+     CursorKind.STRUCT_DECL StatisticalPhoneNetworkInfo
+       CursorKind.FIELD_DECL packetsNumber
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL frequency
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL packetLoss
+         CursorKind.FLOATING_LITERAL 
+       CursorKind.FIELD_DECL packetLossMax
+         CursorKind.FLOATING_LITERAL 
+       CursorKind.FIELD_DECL jitter
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL bandwidth
+         CursorKind.FLOATING_LITERAL 
+       CursorKind.FIELD_DECL codec
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+     CursorKind.STRUCT_DECL StatisticalPhonePeerInfo
+       CursorKind.FIELD_DECL peerNumber
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL localIp
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL localPort
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL remoteIp
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL remotePort
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL networkDelay
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL networkSendingStatus
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalPhoneNetworkInfo
+       CursorKind.FIELD_DECL networkReceivingStatus
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalPhoneNetworkInfo
+     CursorKind.STRUCT_DECL StatisticalPhoneInfo
+       CursorKind.FIELD_DECL registerId
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL registerServerIp
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL registerServerPort
+         CursorKind.TYPE_REF uint32_t
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL networkSwitch
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL localNetworkInterface
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL phonePeers
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalPhonePeerInfo
+     CursorKind.STRUCT_DECL StatisticalInfo
+       CursorKind.FIELD_DECL overallInfo
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalOverallInfo
+       CursorKind.FIELD_DECL audioInfo
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalMediaInfo
+       CursorKind.FIELD_DECL videoInfo
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalMediaInfo
+       CursorKind.FIELD_DECL shareInfo
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalMediaInfo
+       CursorKind.FIELD_DECL phoneInfo
+         CursorKind.TYPE_REF struct ZRCSDK::StatisticalPhoneInfo
+     CursorKind.STRUCT_DECL AudioCheckupInfo
+       CursorKind.FIELD_DECL status
+         CursorKind.TYPE_REF enum ZRCSDK::AudioCheckupStatus
+         CursorKind.DECL_REF_EXPR AudioCheckupStatusIdle
+       CursorKind.FIELD_DECL intervalAfterScheduled
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL percentageOfCheckup
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL canRestartZoomRoomsSystem
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL intervalAfterFinished
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL aecLevel
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL testTime
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+     CursorKind.STRUCT_DECL RoomProfile
+       CursorKind.FIELD_DECL ID
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL name
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL isSelected
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL issueDevices
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF int32_t
+     CursorKind.STRUCT_DECL RoomProfileList
+       CursorKind.FIELD_DECL roomProfileList
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::RoomProfile
+     CursorKind.STRUCT_DECL RoomCapability
+       CursorKind.FIELD_DECL supportAutoLoginOS
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL supportRestartOS
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL notSupportDigitalSignage
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL notSupportMicAdvancedOption
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.STRUCT_DECL AdjustScreensRes
+       CursorKind.FIELD_DECL result
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL currentScreen
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL quantityOfScreens
+         CursorKind.TYPE_REF int32_t
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL action
+         CursorKind.TYPE_REF enum ZRCSDK::ScreenSequenceCalibrationAction
+         CursorKind.DECL_REF_EXPR ScreenSequenceCalibrationNone
+     CursorKind.STRUCT_DECL ScreenInfos
+       CursorKind.FIELD_DECL quantityOfScreens
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL quantityOfCecAdapterAttachedScreens
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL hasConfidenceMonitor
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL mainDisplayPosition
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+     CursorKind.ENUM_DECL CalibrationAction
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionPageAdjustCamera
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionPageCameraControl
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionPageReadyToMove
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionEventStartToCalibrate
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionEventFinishToCheckResult
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionEventAcceptResult
+       CursorKind.ENUM_CONSTANT_DECL CalibrationActionEventStop
+     CursorKind.ENUM_DECL CalibrationCameraLayout
+       CursorKind.ENUM_CONSTANT_DECL CalibrationCameraLayoutUnknown
+         CursorKind.UNARY_OPERATOR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL CalibrationCameraLayoutLeftTopMidBottomRightTop
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL CalibrationCameraLayoutLeftBottomMidTopRightBottom
+       CursorKind.ENUM_CONSTANT_DECL CalibrationCameraLayoutLeftTopMidTopRightTop
+       CursorKind.ENUM_CONSTANT_DECL CalibrationCameraLayoutLeftBottomMidBottomRightBottom
+     CursorKind.ENUM_DECL CalibrationResult
+       CursorKind.ENUM_CONSTANT_DECL CalibrationResultInit
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL CalibrationResultStop
+       CursorKind.ENUM_CONSTANT_DECL CalibrationResultCalibrateSuccess
+       CursorKind.ENUM_CONSTANT_DECL CalibrationResultCalibrateFailed
+       CursorKind.ENUM_CONSTANT_DECL CalibrationResultCameraPositionUpdate
+     CursorKind.ENUM_DECL CalibrationFailedCode
+       CursorKind.ENUM_CONSTANT_DECL CalibrationFailedCodeUnknown
+         CursorKind.UNEXPOSED_EXPR 
+           CursorKind.INTEGER_LITERAL 
+       CursorKind.ENUM_CONSTANT_DECL CalibrationFailedCodeMoveError
+       CursorKind.ENUM_CONSTANT_DECL CalibrationFailedCodeCamError
+       CursorKind.ENUM_CONSTANT_DECL CalibrationFailedCodeCountError
+     CursorKind.STRUCT_DECL DirectorCalibrationInfo
+       CursorKind.FIELD_DECL cameraLayout
+         CursorKind.TYPE_REF enum ZRCSDK::CalibrationCameraLayout
+         CursorKind.DECL_REF_EXPR CalibrationCameraLayoutUnknown
+       CursorKind.FIELD_DECL directorCameraInfo
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TEMPLATE_REF vector
+         CursorKind.TYPE_REF struct ZRCSDK::CameraControlInfo
+     CursorKind.STRUCT_DECL DirectorCalibrationNot
+       CursorKind.FIELD_DECL result
+         CursorKind.TYPE_REF enum ZRCSDK::CalibrationResult
+         CursorKind.DECL_REF_EXPR CalibrationResultInit
+       CursorKind.FIELD_DECL info
+         CursorKind.TYPE_REF struct ZRCSDK::DirectorCalibrationInfo
+       CursorKind.FIELD_DECL failedReason
+         CursorKind.NAMESPACE_REF std
+         CursorKind.TYPE_REF std::string
+       CursorKind.FIELD_DECL failedCode
+         CursorKind.TYPE_REF enum ZRCSDK::CalibrationFailedCode
+         CursorKind.DECL_REF_EXPR CalibrationFailedCodeUnknown
+     CursorKind.STRUCT_DECL IntelligentDirectorInfo
+       CursorKind.FIELD_DECL supportsDirectorMode
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isCalibrationConfigured
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL allowDirectorAndMultiCameraParallel
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL isRegionLimited
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+       CursorKind.FIELD_DECL supportedCameraNumber
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL multiCameraParallelNumInDirector
+         CursorKind.TYPE_REF int32_t
+         CursorKind.INTEGER_LITERAL 
+       CursorKind.FIELD_DECL supportSavePresetImage
+         CursorKind.CXX_BOOL_LITERAL_EXPR 
+     CursorKind.CLASS_DECL ISettingServiceSink
+       CursorKind.CXX_ACCESS_SPEC_DECL 
+       CursorKind.DESTRUCTOR ~ISettingServiceSink
+         CursorKind.COMPOUND_STMT 
+       CursorKind.CXX_METHOD OnMicrophoneListChanged
+         CursorKind.PARM_DECL microphones
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnSpeakerListChanged
+         CursorKind.PARM_DECL speakers
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnCameraListChanged
+         CursorKind.PARM_DECL cameras
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnUpdateCOMList
+         CursorKind.PARM_DECL comList
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnCompanionZRDeviceUpdateNotification
+         CursorKind.PARM_DECL noti
+           CursorKind.TYPE_REF struct ZRCSDK::CompanionZRDeviceUpdateNot
+       CursorKind.CXX_METHOD OnCurrentMicrophoneChanged
+         CursorKind.PARM_DECL exist
+         CursorKind.PARM_DECL microphone
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnCurrentSpeakerChanged
+         CursorKind.PARM_DECL exist
+         CursorKind.PARM_DECL speaker
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnCurrentCameraChanged
+         CursorKind.PARM_DECL exist
+         CursorKind.PARM_DECL camera
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD OnCurrentMicrophoneVolumeChanged
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD OnCurrentSpeakerVolumeChanged
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD OnUpdateHardwareStatus
+         CursorKind.PARM_DECL status
+           CursorKind.TYPE_REF struct ZRCSDK::HardwareStatus
+       CursorKind.CXX_METHOD OnUpdatedGenericSettings
+         CursorKind.PARM_DECL genericSettings
+           CursorKind.TYPE_REF struct ZRCSDK::GenericSettings
+       CursorKind.CXX_METHOD OnUpdateRoomProfileList
+         CursorKind.PARM_DECL list
+           CursorKind.TYPE_REF struct ZRCSDK::RoomProfileList
+       CursorKind.CXX_METHOD OnUpdateZoomRoomCapability
+         CursorKind.PARM_DECL roomCapability
+           CursorKind.TYPE_REF struct ZRCSDK::RoomCapability
+       CursorKind.CXX_METHOD OnCurrentSelectedMicrophoneMuted
+         CursorKind.PARM_DECL muted
+       CursorKind.CXX_METHOD OnMicrophoneTestingNotification
+         CursorKind.PARM_DECL volume
+           CursorKind.TYPE_REF int32_t
+       CursorKind.CXX_METHOD OnMicrophoneRecordingNotification
+         CursorKind.PARM_DECL status
+           CursorKind.TYPE_REF enum ZRCSDK::MicRecordTestStatus
+       CursorKind.CXX_METHOD OnSpeakerTestingNotification
+         CursorKind.PARM_DECL volume
+           CursorKind.TYPE_REF int32_t
+         CursorKind.PARM_DECL isEnabled
+       CursorKind.CXX_METHOD OnSpeakerTestingResult
+         CursorKind.PARM_DECL result
+           CursorKind.TYPE_REF int32_t
+         CursorKind.PARM_DECL duration
+         CursorKind.PARM_DECL isStopped
+       CursorKind.CXX_METHOD OnStatisticalInfoNotification
+         CursorKind.PARM_DECL info
+           CursorKind.TYPE_REF struct ZRCSDK::StatisticalInfo
+       CursorKind.CXX_METHOD OnAudioCheckupNotification
+         CursorKind.PARM_DECL info
+           CursorKind.TYPE_REF struct ZRCSDK::AudioCheckupInfo
+       CursorKind.CXX_METHOD OnAudioSystemFailureNotification
+         CursorKind.PARM_DECL isDismiss
+       CursorKind.CXX_METHOD OnScreenInfosNotification
+         CursorKind.PARM_DECL screenInfos
+           CursorKind.TYPE_REF struct ZRCSDK::ScreenInfos
+       CursorKind.CXX_METHOD OnAdjustScreensResponse
+         CursorKind.PARM_DECL response
+           CursorKind.TYPE_REF struct ZRCSDK::AdjustScreensRes
+       CursorKind.CXX_METHOD OnZoomPresenceScreenSaverNotification
+         CursorKind.PARM_DECL running
+       CursorKind.CXX_METHOD OnUpdatedOperationTimeStatusNotification
+         CursorKind.PARM_DECL shouldDimScreen
+       CursorKind.CXX_METHOD OnDirectorCalibrationNotification
+         CursorKind.PARM_DECL noti
+           CursorKind.TYPE_REF struct ZRCSDK::DirectorCalibrationNot
+       CursorKind.CXX_METHOD OnIntelligentDirectorInfoNotification
+         CursorKind.PARM_DECL info
+           CursorKind.TYPE_REF struct ZRCSDK::IntelligentDirectorInfo
+     CursorKind.CLASS_DECL ISettingService
+       CursorKind.CXX_ACCESS_SPEC_DECL 
+       CursorKind.DESTRUCTOR ~ISettingService
+         CursorKind.COMPOUND_STMT 
+       CursorKind.CXX_METHOD RegisterSink
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL pSink
+           CursorKind.TYPE_REF class ZRCSDK::ISettingServiceSink
+       CursorKind.CXX_METHOD DeregisterSink
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL pSink
+           CursorKind.TYPE_REF class ZRCSDK::ISettingServiceSink
+       CursorKind.CXX_METHOD GetMicrophoneList
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL microphones
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD GetSpeakerList
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL speakers
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD GetCameraList
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL cameras
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TEMPLATE_REF vector
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD GetCurrentMicrophone
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL microphone
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD GetCurrentSpeaker
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL speaker
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD GetCurrentCamera
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL camera
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD SetCurrentMicrophone
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL microphone
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD SetCurrentSpeaker
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL speaker
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD SetCurrentCamera
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL camera
+           CursorKind.TYPE_REF struct ZRCSDK::Device
+       CursorKind.CXX_METHOD GetMicrophoneVolume
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD GetSpeakerVolume
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD SetMicrophoneVolume
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD SetSpeakerVolume
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD SetSpeakerTempVolumeInMeeting
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL volume
+       CursorKind.CXX_METHOD TestMicrophone
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL on
+       CursorKind.CXX_METHOD StartTestingMicrophoneVolume
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD StopTestingMicrophoneVolume
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD ConfirmNumberOfCombinedMicrophone
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL number
+           CursorKind.TYPE_REF int32_t
+       CursorKind.CXX_METHOD IsSupportAcousticEchoCancellation
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL support
+       CursorKind.CXX_METHOD EnableAcousticEchoCancellation
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL enable
+       CursorKind.CXX_METHOD IsSupportAdvancedNoiseSuppression
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL support
+       CursorKind.CXX_METHOD GetCurrentAdvancedNoiseSuppressionMode
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL mode
+           CursorKind.TYPE_REF enum ZRCSDK::AdvancedNoiseSuppressionMode
+       CursorKind.CXX_METHOD SelectAdvancedNoiseSuppressionMode
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL mode
+           CursorKind.TYPE_REF enum ZRCSDK::AdvancedNoiseSuppressionMode
+       CursorKind.CXX_METHOD EnableMicrophoneHardwareTroubleshooting
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL enable
+       CursorKind.CXX_METHOD AudioCheckup
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL command
+           CursorKind.TYPE_REF enum ZRCSDK::AudioCheckupCommand
+       CursorKind.CXX_METHOD IsAudioFramingAvailable
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL available
+       CursorKind.CXX_METHOD EnableAudioFraming
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL enable
+       CursorKind.CXX_METHOD StartTestingSpeaker
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD StopTestingSpeaker
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD IsSpatialAudioAvailable
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL available
+       CursorKind.CXX_METHOD EnableSpatialAudio
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL enable
+       CursorKind.CXX_METHOD SelectMultipleCamera
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL deviceID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+         CursorKind.PARM_DECL isSelected
+         CursorKind.PARM_DECL companionZRID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+           CursorKind.UNEXPOSED_EXPR 
+             CursorKind.UNEXPOSED_EXPR 
+               CursorKind.UNEXPOSED_EXPR 
+                 CursorKind.CALL_EXPR basic_string
+                   CursorKind.UNEXPOSED_EXPR 
+                     CursorKind.STRING_LITERAL ""
+                   CursorKind.UNEXPOSED_EXPR 
+       CursorKind.CXX_METHOD SelectIntelligentDirectorCamera
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL deviceID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+         CursorKind.PARM_DECL isSelected
+       CursorKind.CXX_METHOD CalibrateIntelligentDirectorMode
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL actionType
+           CursorKind.TYPE_REF enum ZRCSDK::CalibrationAction
+         CursorKind.PARM_DECL deviceID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+       CursorKind.CXX_METHOD SetCameraCOMId
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL deviceID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+         CursorKind.PARM_DECL comID
+           CursorKind.TYPE_REF int32_t
+         CursorKind.PARM_DECL companionZRID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+           CursorKind.UNEXPOSED_EXPR 
+             CursorKind.UNEXPOSED_EXPR 
+               CursorKind.UNEXPOSED_EXPR 
+                 CursorKind.CALL_EXPR basic_string
+                   CursorKind.UNEXPOSED_EXPR 
+                     CursorKind.STRING_LITERAL ""
+                   CursorKind.UNEXPOSED_EXPR 
+       CursorKind.CXX_METHOD SetCameraDisplayName
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL deviceID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+         CursorKind.PARM_DECL displayName
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+         CursorKind.PARM_DECL companionZRID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+           CursorKind.UNEXPOSED_EXPR 
+             CursorKind.UNEXPOSED_EXPR 
+               CursorKind.UNEXPOSED_EXPR 
+                 CursorKind.CALL_EXPR basic_string
+                   CursorKind.UNEXPOSED_EXPR 
+                     CursorKind.STRING_LITERAL ""
+                   CursorKind.UNEXPOSED_EXPR 
+       CursorKind.CXX_METHOD SelectRoomProfile
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL profileID
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+         CursorKind.PARM_DECL profileName
+           CursorKind.NAMESPACE_REF std
+           CursorKind.TYPE_REF std::string
+       CursorKind.CXX_METHOD EnableStatisticalInfo
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL enable
+       CursorKind.CXX_METHOD StartAdjustZRScreens
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD StartOverAdjustZRScreens
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD IdentifyZRConfidenceMonitor
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL positionOfConfidenceMonitor
+           CursorKind.TYPE_REF int32_t
+       CursorKind.CXX_METHOD IdentifyZRScreens
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL currentScreen
+           CursorKind.TYPE_REF int32_t
+         CursorKind.PARM_DECL positionOfCurrentScreen
+           CursorKind.TYPE_REF int32_t
+       CursorKind.CXX_METHOD ConfirmAdjustZRScreens
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD CancelAdjustZRScreens
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+       CursorKind.CXX_METHOD TurnCECScreensOn
+         CursorKind.TYPE_REF enum ZRCSDK::ZRCSDKError
+         CursorKind.PARM_DECL on
